@@ -1,0 +1,23 @@
+{
+    "name": "TWAI Manager",
+    "version": "0.0.1",
+    "description": "TWAI Manager is a wrapper for the ESP32 framework functions to enable TWAI communication using a transceiver.",
+    "keywords": "ESP32, TWAI, CAN, CAN Bus, CAN FD, CAN",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Neuroquila-n8fall/twai-manager.git"
+    },
+    "authors":
+    [
+      {
+        "name": "David Ginsbach",
+        "email": "david@ginsbach.eu",
+        "url": "https://github.com/Neuroquila-n8fall"
+      }
+    ],
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/Neuroquila-n8fall/twai-manager",    
+    "frameworks": "arduino",
+    "platforms": "ESP32"
+  }
